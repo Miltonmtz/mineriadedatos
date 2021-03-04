@@ -4,6 +4,8 @@
 
 [Ejercicio de Bases de datos](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Ej1_BasesDatos_Equipo_3.pdf)
 
+[Ejercicios básicos de Python]
+
 [Avance proyecto](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Avance1_PIA_Equipo3.ipynb)
 ## Fase II
 
