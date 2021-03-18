@@ -12,4 +12,6 @@
 
 ## Fase II
 
+[Presentación: Regresión Bayesiana](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Presentaci%C3%B3n_Regresi%C3%B3nBayesiana_Equipo3.pdf)
+
 ## Fase III
