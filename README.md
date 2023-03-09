@@ -15,9 +15,7 @@
 
 [Práctica de visualización](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
 
-[Segundo avance PIA](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/AvancePIA_II_Grupo02_Equipo3.ipynb)
-
-  + [Segundo avance PIA corrección](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/AvancePIA_II_Grupo02_Equipo3_Correcci%C3%B3n.ipynb)
+[Segundo avance PIA](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/AvancePIA_II_Grupo02_Equipo3_Correcci%C3%B3n.ipynb)
 
 ## Fase III
 [PIA-Póster](https://nbviewer.jupyter.org/github/AnaDavila1/Mineria-de-datos-FCFM/blob/main/PIA_Grupo02_Equipo3.pdf)
